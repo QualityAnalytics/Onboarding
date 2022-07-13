@@ -31,10 +31,44 @@ This simple but clear purpose leads to the question — “how do we get people 
 ## Values
 
 - 🤝 Collaboration
+  - Kindness
+  - Share
+  - Provide feedback in a timely manner
+  - Say thanks
+  - Get to know each otehr
+  - Reach across company departments
+  - Assume positive intent
+  - Blameless problem solving
 - 📈 Results
+  - Measure results not hours
+  - Customer results first
+  - Write promises down
+  - Global optimizatoin - do what is best for the org as a whole
+  - Ownership
+  - Bias for action
+  - Escalate to unblock
 - ⏱️ Efficiency
+  - Each team member should strive to be a [manager of one](https://about.gitlab.com/handbook/leadership/#managers-of-one)
+  - Write things down
+  - Boring solutions - use the simplest and most boring solution for a problem
+  - Self-service and self-learning
+  - Be respectful of others' time
+  - Keep broadcasts short - keep one-to-many written communication short, as mentioned in this [HBR study](https://hbr.org/2016/09/bad-writing-is-destroying-your-companys-productivity): "A majority say that what they read is frequently ineffective because it’s too long, poorly organized, unclear, filled with jargon, and imprecise."
+  - Move fast by shipping the minimal viable change
 - 👣 Iteration
+  - Don't wait
+  - Set a due date
+  - Start off by impacting the fewest users possible
+  - Work as part of the community
+  - Minimal viable products
+  - Everything is always in draft and subject to change
+  - Low level of shame
+  - Focus on improvement
+  - Be deliberate about scale
 - 👁️ Transparency
+  - Public by default
+  - Say why, not just what
+  - Reproducibility
 - 🔰 Simple
 
 ## Who we serve
