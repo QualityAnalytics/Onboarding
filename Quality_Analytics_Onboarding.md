@@ -35,7 +35,7 @@ This simple but clear purpose leads to the question — “how do we get people 
   - Share
   - Provide feedback in a timely manner
   - Say thanks
-  - Get to know each otehr
+  - Get to know each other
   - Reach across company departments
   - Assume positive intent
   - Blameless problem solving
@@ -50,7 +50,6 @@ This simple but clear purpose leads to the question — “how do we get people 
 - ⏱️ Efficiency
   - Each team member should strive to be a [manager of one](https://about.gitlab.com/handbook/leadership/#managers-of-one)
   - Write things down
-  - Boring solutions - use the simplest and most boring solution for a problem
   - Self-service and self-learning
   - Be respectful of others' time
   - Keep broadcasts short - keep one-to-many written communication short, as mentioned in this [HBR study](https://hbr.org/2016/09/bad-writing-is-destroying-your-companys-productivity): "A majority say that what they read is frequently ineffective because it’s too long, poorly organized, unclear, filled with jargon, and imprecise."
@@ -70,6 +69,11 @@ This simple but clear purpose leads to the question — “how do we get people 
   - Say why, not just what
   - Reproducibility
 - 🔰 Simple
+  
+  - Boring solutions - use the simplest and most boring solution for a problem
+  - Simplifying as much as possible is crucial to success
+  - Keep plans and communication simple, clear, and concise
+  - Jocko Willink - "When plans or orders are complicated, people may not understand them. Therefore, when things go wrong, and *they inevitably do go wrong*, complexity compounds issues that can spiral out of control into a total disaster."
 
 ## Who we serve
 
