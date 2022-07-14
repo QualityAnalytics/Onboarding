@@ -98,6 +98,10 @@ Most importantly, these policies are not set in stone, and we often find ourselv
 
 We have a bias towards [asynchronous communication](https://about.gitlab.com/company/culture/all-remote/asynchronous/) and [nonlinear workdays](https://about.gitlab.com/company/culture/all-remote/non-linear-workday/) to be as effective as possible.
 
+### Devote time to fostering relationships
+
+Not only do we get to know our coworkers better by seeing them in real time during video calls, we also get to know their pets and families too. This visual engagement helps us relate to each other on a more personal level, so when we meet in person, we already know each other.
+
 ### Meetings
 
 - One is virtual, all are virtual in a meeting to ensure that everyone is participating on an equal playing field
