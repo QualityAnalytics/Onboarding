@@ -31,3 +31,5 @@ The intent of the Analytics Book Club is to provide a collaborative space to lea
   
 - Book suggestions - we will get a list flowing for future books that everyone in the group can contribute suggestions
   - How the Future Works
+  - Extreme Ownership
+  - High Output Management
