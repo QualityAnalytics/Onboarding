@@ -255,6 +255,10 @@ Your Kanban system can be as flexible as you want—it's really just a way to vi
 
 - **Constant improvement (otherwise known as "kaizen"):** Analyze the flow to determine how efficiently you're working, and always strive to improve it.
 
+📺 [Agile Project Management with Kanban | Eric Brechner](https://www.youtube.com/watch?v=CD0y-aU1sXo)
+
+📚 [Agile Project Management with Kanban](https://ptgmedia.pearsoncmg.com/images/9780735698956/samplepages/9780735698956.pdf)
+
 ## Technical onboarding
 
 Give new hires access to the tools they'll be using in their role and encourage them to use the tools as early as possible. Using tools, even for small tasks, build confidence and helps new employees to feel productive and empowered.
