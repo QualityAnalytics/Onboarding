@@ -146,7 +146,7 @@ OBS Studio: recording documentation and tutorials <https://obsproject.com/>
 
 ## Wanna Learn More?
 
-- SQL good, more SQL better <https://mode.com/sql-tutorial/>
+- SQL good, more SQL better <https://sqlbolt.com/> <https://www.w3schools.com/sql/> <https://mode.com/sql-tutorial/>
 - Python, yes please <https://www.udemy.com/course/automate/>
 - Data Viz. Bonus points if you can find a typo or other issue and open an issue on the author's GitHub <https://clauswilke.com/dataviz/>
 - GitHub Skills. From pull requests to communicating via Markdown. <https://skills.github.com/>
