@@ -100,6 +100,8 @@ Most importantly, these policies are not set in stone, and we often find ourselv
 
 **Documentation** first! Write down and record knowledge over verbal explanations. This saves time in the future. An organization that does not put concerted effort into structured documentation has no choice but to watch its team members ask and re-ask for the same bits of data in perpetuity, creating a torturous loop of interruptions, meetings, and suboptimal knowledge transfers. In Quality Analytics, documentation is written in [Markdown](https://en.wikipedia.org/wiki/Markdown). If you document information as you learn new things it removes the company wide burden of having to develop this answer from scratch again.
 
+Documentation is an essential competitive advantage. Companies which rely on vocalizing end up repeating themselves over and over in meetings, creating an inefficient environment with tremendous opportunity for knowledge leaks. While communicating and documenting through text may feel like a burden in the moment, it prevents a toxic cycle of meetings and touch points which serve only to "bring people up to speed."
+
 We have a bias towards [asynchronous communication](https://about.gitlab.com/company/culture/all-remote/asynchronous/) and [nonlinear workdays](https://about.gitlab.com/company/culture/all-remote/non-linear-workday/) to be as effective as possible.
 
 ### Devote time to fostering relationships
