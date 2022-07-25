@@ -88,6 +88,8 @@ When something isn’t working for you, please escalate that to the broader team
 
 ## How we hire
 
+We don't hire based on culture or select candidates because we'd like to have a drink with them. We hire and reward team members based on our shared values as detailed on this page. We want a **values fit**, not a culture fit. We want cultural diversity instead of cultural conformity, such as a brogrammer atmosphere. Said differently: **"culture add" > "culture fit."**
+
 ## Policies
 
 The intent of operating norms is to help us stay aligned while still maintaining flexibility for individuals.
@@ -145,6 +147,13 @@ OBS Studio: recording documentation and tutorials <https://obsproject.com/>
 - BISQL Data Dictionary: <http://txvwebdata001/WebData/Document.aspx>
 - Join the [Data & Analytics Teams channel](https://teams.microsoft.com/l/team/19%3a4MnyF_2Sn0RJ6gX8LNem3MRmoPm0Qx1_7eEMgROJS_w1%40thread.tacv2/conversations?groupId=fa13e6d7-793e-4531-b881-b708714453e8&tenantId=2d5b202c-8c07-4168-a551-66f570d429b3) here at Textron Aviation and actively participate in the community!
 - TXTAV Intranet - important apps, etc. <https://home.txtav.web/>
+- iRequest <http://txvireq001.txt.textron.com/sc/home.aspx>
+  - Request a **Visual Studio Pro license** from iRequest to utilize Azure Repos in Azure DevOps:
+    - iRequest -> Software Request -> Software Request -> 👇
+      - **Software:** Other
+      - **Name of Software:** Visual Studio Pro
+      - **Business Justification:** Need Visual Studio Pro license to utilize repositories in Azure DevOps
+      - **Asset ID:** the ID sticker on the front of your computer
 
 ## Wanna Learn More?
 
